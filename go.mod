@@ -1,4 +1,4 @@
-module github.com/BlackHole1/wxwork_message_sdk
+module github.com/liubiantao/wxwork_message_sdk
 
 go 1.12
 
